@@ -2,7 +2,7 @@
 My Python solutions for project euler
 
 ## 
-First 10 Problem
+First 10 Problem (https://projecteuler.net/archives)
 ### Problem 1 (Multiples of 3 or 5)
 
 ### Problem 2 (Even Fibonacci numbers)
